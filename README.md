@@ -1,6 +1,6 @@
 ## [E-commerce-Shope](https://github.com/mardibll/E-commerce-Shope.git)
 
-The Shopefood application is an application designed simply for users, the aim is to make it easier for users to order food online. so buyers can order food quickly without spending a lot of time.
+E-commerce-Shope adalah aplikasi web, di mana Anda bisa berbelanja berbagai merek yang sudah Anda kenal, sekaligus menemukan toko dan Penjual baru secara online.
 
 ### Features
 
