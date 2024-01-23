@@ -1,4 +1,4 @@
-## [E-commerce-Shope](https://github.com/mardibll/E-commerce-Shope.git)
+## [E-commerce-Shope](https://e-commerce-shope-neon.vercel.app/)
 
 E-commerce-Shope adalah aplikasi web, di mana Anda bisa berbelanja berbagai merek yang sudah Anda kenal, sekaligus menemukan toko dan Penjual baru secara online.
 
