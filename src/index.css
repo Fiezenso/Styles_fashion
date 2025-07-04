@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+/* src/index.css atau App.css */
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hidden {
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
 @layer base {
   body {
     @apply font-primary text-primary;

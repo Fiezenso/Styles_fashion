@@ -3,7 +3,7 @@ import { productContext } from "../contexts/ProductContext.js";
 import Product from "../components/Product.js";
 import Hero from "../components/Hero.js";
 import { useState } from "react";
-
+import "./style.css"
 const Home = () => {
   const { products } = useContext(productContext);
 
@@ -35,9 +35,9 @@ const Home = () => {
   return (
     <div>
       <Hero />
-      <section className="py-20 ">
-        <div className="container mx-auto">
-          <div className="flex justify-center items-center mb-8">
+      <section className="p-10 md:p-20 ">
+        <div className="">
+          <div className="btnMenu flex overflow-x-auto   md:justify-center md:items-center mb-8"  >
             <div
               onClick={() => setFilter(AllProduct)}
               className=" px-6 border py-1 cursor-pointer hover:text-red-800 transition-all"
